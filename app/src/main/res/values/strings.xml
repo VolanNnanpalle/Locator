@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Locator</string>
+    <string name="log_in">Log In</string>
+    <string name="create_new_account">Create new account?</string>
+    <string name="search_button_text">Search</string>
+    <string name="find_barbershop_button_text">Find Barber Shop</string>
+    <string name="capture_haircut">Capture Haircut</string>
+    <string name="speak_text">Speak</string>
+</resources>
